@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Make It</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="operators">operators</string>
+    <string name="play">Play</string>
+    <string name="how">How to Play</string>
+    <string name="high">High Scores</string>
+    <string name="help_info">Make It is a different math game.\n\nChoose Easy, Medium or Hard to begin.Try to make the specified number using the numbers and operators available. The fewer steps you take the reach the number the higher your score! The C button clears the input while the Enter button computes the statement. Be careful! All input must be in the form (number - operand- number) or you will lose your progress.\n\nYour ten best scores will automatically be saved into the High Scores.</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_0">0</string>
+    <string name="c">C</string>
+    <string name="_">"= "</string>
+    <string name="_0_0">0 + 0</string>
+    <string name="score_0">Score: 0</string>
+    <string name="result">result</string>
+    <string name="enter">Enter</string>
+
+</resources>
